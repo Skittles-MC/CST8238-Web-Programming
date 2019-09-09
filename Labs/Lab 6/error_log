@@ -1,0 +1,25 @@
+[24-Oct-2016 21:53:02 America/New_York] PHP Warning:  include(topMenu.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab6/index.php on line 5
+[24-Oct-2016 21:53:02 America/New_York] PHP Warning:  include(topMenu.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab6/index.php on line 5
+[24-Oct-2016 21:53:02 America/New_York] PHP Warning:  include(): Failed opening 'topMenu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/choycom/public_html/CST8238/Labs/Lab6/index.php on line 5
+[24-Oct-2016 23:29:04 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 16
+[24-Oct-2016 23:29:08 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 16
+[24-Oct-2016 23:29:09 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 16
+[24-Oct-2016 23:29:19 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 16
+[24-Oct-2016 23:29:20 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 16
+[24-Oct-2016 23:29:26 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 16
+[24-Oct-2016 23:29:34 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 16
+[24-Oct-2016 23:29:35 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 16
+[24-Oct-2016 23:31:44 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 33
+[24-Oct-2016 23:31:46 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 33
+[24-Oct-2016 23:31:47 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 33
+[24-Oct-2016 23:32:35 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 33
+[24-Oct-2016 23:32:37 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 33
+[24-Oct-2016 23:32:38 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 33
+[24-Oct-2016 23:32:38 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 33
+[24-Oct-2016 23:32:39 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 33
+[24-Oct-2016 23:39:56 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 34
+[24-Oct-2016 23:39:58 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 34
+[25-Oct-2016 16:39:24 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 34
+[25-Oct-2016 16:39:28 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 34
+[25-Oct-2016 23:36:36 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 34
+[17-Dec-2016 17:06:47 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/choycom/public_html/CST8238/Labs/Lab6/Random.php on line 34

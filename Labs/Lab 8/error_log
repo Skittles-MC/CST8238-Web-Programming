@@ -1,0 +1,14 @@
+[22-Nov-2016 00:20:45 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choycom/public_html/CST8238/Labs/Lab8/Input.php on line 113
+[22-Nov-2016 00:22:03 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choycom/public_html/CST8238/Labs/Lab8/Input.php on line 113
+[22-Nov-2016 00:22:39 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choycom/public_html/CST8238/Labs/Lab8/Input.php on line 113
+[22-Nov-2016 00:24:15 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/choycom/public_html/CST8238/Labs/Lab8/Header.php:13) in /home/choycom/public_html/CST8238/Labs/Lab8/Session1.php on line 21
+[22-Nov-2016 00:27:10 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choycom/public_html/CST8238/Labs/Lab8/Input.php on line 113
+[22-Nov-2016 00:28:41 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/choycom/public_html/CST8238/Labs/Lab8/Header.php:13) in /home/choycom/public_html/CST8238/Labs/Lab8/Session1.php on line 21
+[22-Nov-2016 00:35:18 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choycom/public_html/CST8238/Labs/Lab8/Input.php on line 113
+[22-Nov-2016 00:39:10 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choycom/public_html/CST8238/Labs/Lab8/Input.php on line 113
+[22-Nov-2016 00:39:58 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/choycom/public_html/CST8238/Labs/Lab8/Header.php:13) in /home/choycom/public_html/CST8238/Labs/Lab8/Session1.php on line 21
+[22-Nov-2016 16:08:23 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choycom/public_html/CST8238/Labs/Lab8/Input.php on line 113
+[22-Nov-2016 16:50:58 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choycom/public_html/CST8238/Labs/Lab8/Input.php on line 113
+[22-Nov-2016 16:51:30 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/choycom/public_html/CST8238/Labs/Lab8/Header.php:13) in /home/choycom/public_html/CST8238/Labs/Lab8/Session1.php on line 21
+[28-Nov-2016 00:10:47 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choycom/public_html/CST8238/Labs/Lab8/Input.php on line 113
+[01-Jan-2017 13:57:23 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choycom/public_html/CST8238/Labs/Lab8/Input.php on line 113

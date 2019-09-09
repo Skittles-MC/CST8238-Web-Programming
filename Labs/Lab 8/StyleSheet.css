@@ -1,0 +1,149 @@
+*{
+	font: "Times New Roman";
+	font-size: 14px;
+	background-color: #ffffff;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+h1{
+	color: blue;
+}
+
+h2{
+	color: green;
+}
+
+p{
+	padding: 20px;
+}
+
+/* Header material  */
+header#header{
+
+	text-align: center;
+	padding: 5px;
+	border-bottom: 5px solid black; 
+	background-image: url('http://vignette2.wikia.nocookie.net/steins-gate/images/6/69/Steins_Gate.600.1120176.jpg/revision/latest?cb=20130703085439&path-prefix=pl');
+  	border: 2px solid black;
+  	border-bottom: 2px solid black;
+  	
+}
+
+h1#header{
+	font-size: 40px;
+
+}
+
+div.transbox {
+  margin: 5px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.8;
+  filter: alpha(opacity=80); 
+}
+
+div.transbox h1 {
+  margin: 1.5%;
+  font-weight: bold;
+  color: #000000;
+}
+
+div.transbox h2 {
+  margin: 1%;
+  font-weight: bold;
+  color: #000000;
+}
+
+#top-menu{
+	background-color: black;
+	position: relative;
+	top: 0px;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	text-align: center;
+	
+
+		
+}
+
+
+/* Header material  */
+
+
+#side-menu{
+	line-height: 30px;
+	background-image: url('http://vignette2.wikia.nocookie.net/steins-gate/images/6/69/Steins_Gate.600.1120176.jpg/revision/latest?cb=20130703085439&path-prefix=pl');
+	height: 560px;
+	width: 300px;
+	float: left;
+	padding: 5px;
+	border-bottom: 10px solid black;
+	border-right: 10px solid black; 
+}
+
+.side-menu{
+	margin-top: 60px; 
+	background-color: grey;
+	padding: 10px;
+
+}
+
+
+table.side-menu td{
+	padding: 16px;
+	background-color: white;
+ 
+}
+
+td,table{
+	border: 6px solid black;
+
+
+}
+
+
+
+
+
+div#footer{
+	border-top: 5px solid black;
+	width: 100%;
+	height: 100px;
+	clear: both; 
+	text-align: center;
+	padding: 5px;
+	background-image: url('http://vignette2.wikia.nocookie.net/steins-gate/images/6/69/Steins_Gate.600.1120176.jpg/revision/latest?cb=20130703085439&path-prefix=pl');
+}
+
+div#footer h1{
+	background-color: grey;
+	width: 600px;
+	height: 50px;
+	font-size: 25px;
+	padding: 10px;
+}
+
+
+#content{
+	width: 700px;
+	float: left;
+	padding: 10px;
+	text-align:center;
+}
+
+
+nav
+{
+  width: 100%;
+  height: 75px;
+  position: relative;
+  align-items: center;
+  box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.4);
+  z-index: 10;
+}

@@ -1,0 +1,39 @@
+[31-Oct-2016 22:37:08 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/index.php on line 48
+[31-Oct-2016 22:37:08 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/index.php on line 48
+[31-Oct-2016 22:37:08 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/choycom/public_html/CST8238/Labs/Lab7/index.php on line 48
+[31-Oct-2016 22:37:15 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/index.php on line 48
+[31-Oct-2016 22:37:15 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/index.php on line 48
+[31-Oct-2016 22:37:15 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/choycom/public_html/CST8238/Labs/Lab7/index.php on line 48
+[31-Oct-2016 22:37:17 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/Array.php on line 81
+[31-Oct-2016 22:37:17 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/Array.php on line 81
+[31-Oct-2016 22:37:17 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/choycom/public_html/CST8238/Labs/Lab7/Array.php on line 81
+[31-Oct-2016 22:37:21 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/Array.php on line 81
+[31-Oct-2016 22:37:21 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/Array.php on line 81
+[31-Oct-2016 22:37:21 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/choycom/public_html/CST8238/Labs/Lab7/Array.php on line 81
+[31-Oct-2016 22:37:28 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/Object.php on line 99
+[31-Oct-2016 22:37:28 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/Object.php on line 99
+[31-Oct-2016 22:37:28 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/choycom/public_html/CST8238/Labs/Lab7/Object.php on line 99
+[31-Oct-2016 22:37:30 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/Array.php on line 81
+[31-Oct-2016 22:37:30 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/Array.php on line 81
+[31-Oct-2016 22:37:30 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/choycom/public_html/CST8238/Labs/Lab7/Array.php on line 81
+[31-Oct-2016 22:37:47 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/Array.php on line 81
+[31-Oct-2016 22:37:47 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/Array.php on line 81
+[31-Oct-2016 22:37:47 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/choycom/public_html/CST8238/Labs/Lab7/Array.php on line 81
+[31-Oct-2016 22:37:49 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/Object.php on line 99
+[31-Oct-2016 22:37:49 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/Object.php on line 99
+[31-Oct-2016 22:37:49 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/choycom/public_html/CST8238/Labs/Lab7/Object.php on line 99
+[31-Oct-2016 22:37:51 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/Array.php on line 81
+[31-Oct-2016 22:37:51 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/Array.php on line 81
+[31-Oct-2016 22:37:51 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/choycom/public_html/CST8238/Labs/Lab7/Array.php on line 81
+[31-Oct-2016 22:39:05 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/index.php on line 48
+[31-Oct-2016 22:39:05 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/index.php on line 48
+[31-Oct-2016 22:39:05 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/choycom/public_html/CST8238/Labs/Lab7/index.php on line 48
+[31-Oct-2016 22:39:07 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/Array.php on line 78
+[31-Oct-2016 22:39:07 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/Array.php on line 78
+[31-Oct-2016 22:39:07 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/choycom/public_html/CST8238/Labs/Lab7/Array.php on line 78
+[31-Oct-2016 22:39:12 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/Object.php on line 97
+[31-Oct-2016 22:39:12 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/Object.php on line 97
+[31-Oct-2016 22:39:12 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/choycom/public_html/CST8238/Labs/Lab7/Object.php on line 97
+[31-Oct-2016 22:40:01 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/index.php on line 48
+[31-Oct-2016 22:40:01 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/choycom/public_html/CST8238/Labs/Lab7/index.php on line 48
+[31-Oct-2016 22:40:01 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/choycom/public_html/CST8238/Labs/Lab7/index.php on line 48
