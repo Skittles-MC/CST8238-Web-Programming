@@ -1,0 +1,84 @@
+*{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	background-color: white;
+}
+
+h1{
+		color: #0000ff;
+		font-size: 250%;
+}
+
+h2{
+		color: #00b300;
+		font-size: 140%;
+}
+
+ol{
+	margin: auto;
+	list-style: inside decimal;
+}
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+p{
+	padding: 20px;
+	text-align: center;
+}
+
+table{
+	margin: auto;
+}
+
+#header{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	padding: 15px;
+	text-align: center;
+	background-color: Red;
+}
+
+#top-menu{
+	background-color: Fuchsia;
+	position: relative;
+	top: 0px;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	text-align: center;
+}
+
+#side-menu{
+	background-color: Grey;
+	position: absolute;
+	left: 0px;
+	height: 100%;
+	width: 6%;
+	border-right-style: solid;
+	border-right-width: 1px;
+	text-align: center;
+}
+
+#content{
+	background-color: white;
+	position: absolute;
+	right: 0px;
+	height: 100%;
+	width: 93%;
+	overflow-y: scroll;
+	border: 1px;
+	text-align: center;
+}
+
+#footer{
+	background-color: Lime;
+	position: fixed;
+	bottom: 0px;
+	height: 20px;
+	width: 100%;
+	border-top-style: solid;
+	border-top-width: 1px;
+	text-align: center;
+}
