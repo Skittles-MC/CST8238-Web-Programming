@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Assignment 3 - Task 1</title>
+
+
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,700,900' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+
+  <style>
+  .no-close .ui-dialog-titlebar-close
+  {
+  display: none;
+  }
+  </style>
+
+	<script>
+		/*
+		Create a function that converts the inputted temperture from
+		Celsius to Fahrenheit and Fahrenheit to Celsius: convertTemperature.
+		The function should first display a prompt asking the user to select the temperature unit
+		to convert to Celsius/Farenheit.
+		Then the function should display another prompt asking the user to input the temperature to be converted to
+		Celsius/Farenheit.
+		The value entered should be validated to ensure it is a number.
+		Then, the appropriate formula should be applied to the value to convert the
+		temperature to the selected temperature unit.
+		Finally, an alert should be displayed indicating the
+		temperature that they entered, and the converted temperature.
+		The function should be called when the appropriate button below is pressed.
+		*/
+    function getUnit()
+    {
+      var temp_unit = "C";
+      $("#temp_dialog").dialog(
+        {
+        dialogClass: "no-close",
+        buttons:
+        {
+          "Celsius": function()
+          {
+            temp_unit = "C";
+            convertTemperature(temp_unit)
+          },
+          "Fahrenheit": function()
+          {
+            temp_unit = "F";
+            convertTemperature(temp_unit)
+          }
+        }
+      });
+    }
+    function convertTemperature(unit)
+    {
+      $("#temp_dialog").dialog('close');
+      var value = prompt("Enter the temperature: ", "0");
+      var msg = value + unit + "-->";
+      var converted = 0;
+      if (isNaN(value))
+      {
+        msg = "Temperature given is not a valid number!";
+      }
+      else if (unit == "F")
+      {
+        converted = (value - 32) / 1.8;
+        msg = msg + converted + "C";
+      }
+      else if (unit == "C")
+      {
+        converted = value * 1.8 + 32;
+        msg = msg + converted + "F";
+      }
+      alert(msg);
+    }
+	</script>
+
+<div id="temp_dialog" title="" hidden="hidden">Choose a unit</div>
+</head>
+
+<body>
+
+<h2>Assignment3-Task1 - Introduction to JavaScript</h2>
+<nav>
+<ul class="menu white-text">
+<li>
+  <a href="TemperatureConverter.html">Temperature Converter</a>
+</li>
+<li>
+  <a href="index.php">Restaurant Home</a>
+</li>
+</ul>
+</nav>
+
+<div>
+<table align="center">
+    <tr>
+        <th>Temperature conversion</td>
+    </tr>
+    <tr>
+	<td><input class="indigo accent-4 white-text" type="button" value="Convert!" onclick="getUnit()"></td>
+</tr>
+</table>
+</div>
+
+</body>
+
+
+</a>
+</div>
+</html>
